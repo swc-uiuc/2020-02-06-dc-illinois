@@ -11,7 +11,7 @@ humantime: "9:00 am - 4:30 pm"    # human-readable times for the workshop (e.g.,
 startdate: 2019-01-31      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2019-01-31        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Neal Davis","Jessica Holmes","Jenny Drnevich"] # boxed, comma-separated list of instructors' names as strings
-helper: ["Meng-Chun Tseng]     # boxed, comma-separated list of helpers' names
+helper: ["Meng-Chun Tseng"]     # boxed, comma-separated list of helpers' names
 email: ["training@cse.illinois.edu"]    # boxed, comma-separated list of contact email addresses for the host
 collaborative_notes: "http://pad.software-carpentry.org/2019-01-31-dc-illinois"            # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite: "53442062648"          # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
