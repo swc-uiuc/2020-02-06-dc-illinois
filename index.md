@@ -6,10 +6,10 @@ address: "607 Institute for Genomic Biology"      # full street address of works
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
 latlng: "40.1047754,-88.2269122"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use http://www.latlong.net/)
-humandate: "Jan 31–Feb 1, 2019"  # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humandate: "September 5–6, 2019"  # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9:00 am - 4:30 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: 2019-01-31      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2019-01-31        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+startdate: 2019-09-05      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2019-09-06        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Neal Davis","Jessica Holmes","Jenny Drnevich"] # boxed, comma-separated list of instructors' names as strings
 helper: ["Ghana Challa","Samniqueka Halsey","Kavya Kannan"]     # boxed, comma-separated list of helpers' names
 email: ["training@cse.illinois.edu"]    # boxed, comma-separated list of contact email addresses for the host
