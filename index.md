@@ -84,7 +84,9 @@ eventbrite: "69039670513"          # optional: alphanumeric key for Eventbrite r
   Get directions with
   <a href="//www.openstreetmap.org/?mlat={{page.latlng | replace:',','&mlon='}}&zoom=16">OpenStreetMap</a>
   or
-  <a href="//maps.google.com/maps?q={{page.latlng}}">Google Maps</a>.
+  <a href="//maps.google.com/maps?q={{page.latlng}}">Google Maps</a>.<br>
+  Breakfast will be in the Spitze Room starting at 8.
+  Lunch will be in the Heritage Room.
 </p>
 {% endif %}
 
